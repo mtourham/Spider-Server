@@ -1,2 +1,2 @@
-# nginx-the-remake
-recreating the nginx webserver
+# Spider-Server
+recreating an HTTP webserver
